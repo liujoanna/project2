@@ -1,23 +1,31 @@
+@import url("https://fonts.googleapis.com/css?family=Nanum+Gothic&display=swap"); /* imported font*/
+
 body {
   background-color: whitesmoke;
 }
 h1{
   color: dimgray;
+  font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif; /* native font */
 }
 h2{
   color: darkslategray;
+  font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
 }
 h3{
   color: slategray;
+  font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
 }
 h4{
   color: darkgray;
+  font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
 }
 p{
   color: lightslategray;
+  font-family: 'Nanum Gothic', sans-serif; /* imported font */
 }
 
 .nav{
+  width: 100%;
   border:1px solid #ccc;
   border-width:1px 0;
   list-style:none;
