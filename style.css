@@ -26,6 +26,10 @@ h1, h2, h3, h4 {
   font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
 }
 
+body, h1, h2, h3, h4, p, em{
+  margin-left:0.2%;
+}
+
 .index li, .index1 li, .index2 li, .index3 li, .index4 li, .index5 li{
   color: lightslategray;
   font-family: 'Nanum Gothic', sans-serif;
