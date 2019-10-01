@@ -4,6 +4,12 @@ body {
 h1{
   color: gray;
 }
+h2{
+  color: slategray;
+}
+h3{
+  color: silver;
+}
 p{
-  color: seashell;
+  color: lightslategray;
 }
