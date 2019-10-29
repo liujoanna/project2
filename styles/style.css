@@ -54,6 +54,11 @@ ul{
   font-family: 'Nanum Gothic', sans-serif;
 }
 
+.index h2{
+  text-decoration-line: underline;
+  text-decoration-style: solid;
+}
+
 .nav{
   width: 100%;
   border:1px solid #ccc;
