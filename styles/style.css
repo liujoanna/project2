@@ -55,8 +55,13 @@ ul{
 }
 
 .index h2{
-  text-decoration-line: underline;
+  text-decoration: underline;
+  text-decoration-color:slategray;
   text-decoration-style: solid;
+}
+
+.italic{
+  font-style: italic;
 }
 
 .nav{
