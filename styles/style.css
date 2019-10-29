@@ -35,8 +35,7 @@ body, h1, h2, h3, h4, p, em{
   font-family: 'Nanum Gothic', sans-serif;
 }*/
 
-.index li,
-li{
+.index li {
   color: lightslategray;
   font-family: 'Nanum Gothic', sans-serif;
 }
@@ -46,6 +45,7 @@ em{
 }
 img{
   max-width: 100%;
+  max-height: 400px;
   height: auto;
 }
 
@@ -62,7 +62,7 @@ div#d1{
   background-color: whitesmoke;
 }
 
-.index h2{
+.index h2, .envy h1{
   text-decoration: underline;
   text-decoration-color:slategray;
   text-decoration-style: solid;
